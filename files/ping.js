@@ -12,6 +12,9 @@ exports.run = (client, message, args) => {
   /*
    * Takes a Date object, defaults to current date.
    */
+    .setImage("https://i.imgur.com/zO5aYA7.png")
+    
+    
   .setTimestamp();
 ​
   message.channel.send({embed: result});
