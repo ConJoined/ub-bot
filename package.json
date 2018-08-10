@@ -1,21 +1,26 @@
 {
-  "name": "ub-bot",
+  "name": "Package",
   "version": "1.0.0",
-  "description": "UNITY BUILDERS BOT",
+  "description": "UB BOT",
   "main": "cd.js",
   "engines": {
-    "node": "8.x",
-    "npm": "*"
+      "node": "8.x",
+      "npm": "*"
   },
+  "main": "cd.js",
+
   "scripts": {
+
     "start": "node cd.js"
+
   },
-  "keywords": [
-    "heroku",
-    "discord.js"
-  ],
-  "author": "iosuppression",
+
   "dependencies": {
-    "discord.js": "^11.3.0"
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
   }
+
 }
