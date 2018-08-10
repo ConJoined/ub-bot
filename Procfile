@@ -1,1 +1,1 @@
-worker: node cd.js
+worker: npm start
