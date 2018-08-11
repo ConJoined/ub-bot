@@ -1,26 +1,28 @@
 {
-  "name": "Package",
+  "name": "ub-bot",
   "version": "1.0.0",
   "description": "Pigeon Package",
   "main": "ub-bot.js",
+  
   "engines": {
       "node": "8.x",
       "npm": "*"
   },
+  
   "main": "ub-bot.js",
 
   "scripts": {
-
+    
     "start": "node ub-bot.js"
-
+    
   },
 
   "dependencies": {
-
+    
     "discord.js": "11.4.0",
-
+    
     "request": "2.81.0"
-
+    
   }
 
 }
