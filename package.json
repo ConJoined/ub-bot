@@ -7,7 +7,7 @@
       "node": "8.x",
       "npm": "*"
   },
-  "main": "cd.js",
+  "main": "ub-bot.js",
 
   "scripts": {
 
