@@ -2,7 +2,7 @@
   "name": "Package",
   "version": "1.0.0",
   "description": "UB BOT",
-  "main": "cd.js",
+  "main": "ub-bot.js",
   "engines": {
       "node": "8.x",
       "npm": "*"
@@ -11,7 +11,7 @@
 
   "scripts": {
 
-    "start": "node cd.js"
+    "start": "node ub-bot.js"
 
   },
 
